@@ -39,7 +39,8 @@ The goal is to transform raw data into **interactive visual insights** using Tab
 
 
 ```id="q7kz1n"
-<img width="1652" height="856" alt="Insurance_dash" src="https://github.com/user-attachments/assets/0d8830d3-9d5b-49b6-a74b-febb180b9f5f" />
+<img width="1652" height="856" alt="Insurance_dash" src="https://github.com/user-attachments/assets/263bf0f7-e725-4e82-a9c6-61bda1381f52" />
+
 <img width="1282" height="788" alt="excel_dash" src="https://github.com/user-attachments/assets/c4dcbcf0-b44a-49f6-a79a-b6170f821b2a" />
 
 
